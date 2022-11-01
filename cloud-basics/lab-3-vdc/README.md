@@ -61,7 +61,7 @@ login with your username and password
 ### Creating a Virtual Router
 a router is a networking device used to connect your virtual instance to the internet 
 
-#### Follow the [Video Guide](https://kb.bluvalt.com/uploads/Create_router.mp4 "Video Guide")
+#### Follow the [Video Guide](https://kb.bluvalt.com/get-started/arabic-video-guides/create-virtual-router/ "Video Guide")
 
 ```
 Router Name = Router 1
@@ -74,7 +74,7 @@ Router Name = Router 1
 ### Creating a Virtual Network
 Used to communicate instances with each other and routers
 
-#### Follow the [Video Guide](https://kb.bluvalt.com/uploads/create_network.mp4 "Video Guide")
+#### Follow the [Video Guide](https://kb.bluvalt.com/get-started/english-video-guides/create-virtual-network/ "Video Guide")
 ```
 Network Name = Network 1
 Subnet Name = Subnet 1-1
